@@ -1,0 +1,14 @@
+15 2 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zqqd
+30 7,12,18 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zqwz
+45 9 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zqkkz
+15 7,12,18 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_share
+20 9 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_Adv_video
+15 20 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zqbox
+15 23 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_today_score
+15 7 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_friendSign
+34 9 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_Rotary
+34 5,9 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_wakeup
+35 7 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zqssz
+34 7 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zqllz
+34 5 * * 1 bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_double
+25 10 * * * bash /data/data/com.termux/files/home/storage/shared/JD/jd.sh zq_withdraw
