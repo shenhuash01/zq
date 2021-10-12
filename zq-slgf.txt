@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqqd.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqwz.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqkkz.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_Adv_video.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_share.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqbox.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_today_score.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_friendSign.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_Rotary.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_wakeup.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqssz.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqllz.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_double.js
+https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_withdraw.js
