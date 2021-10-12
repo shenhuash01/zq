@@ -12,3 +12,14 @@ https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqssz.js
 https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqllz.js
 https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_double.js
 https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_withdraw.js
+https://raw.githubusercontent.com/shenhuash01/zq/main/zq_cash.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zq_cookie.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zq_timebody.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zq_withdraw.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zqllzbody.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zqlookStartbody.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zqqdbody.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zq-slgf.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zqsszbody.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zqwzbody.txt
+https://raw.githubusercontent.com/shenhuash01/zq/main/zqboxbody.txt
